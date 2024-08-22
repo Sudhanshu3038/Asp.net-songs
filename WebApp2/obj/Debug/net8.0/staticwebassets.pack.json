@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sudhanshu Kr Singh\\source\\repos\\WebApp2\\WebApp2\\wwwroot\\Upload\\Screenshot 2024-07-25 121342.png",
+      "PackagePath": "staticwebassets\\Upload\\Screenshot 2024-07-25 121342.png"
+    },
+    {
+      "Id": "C:\\Users\\Sudhanshu Kr Singh\\source\\repos\\WebApp2\\WebApp2\\wwwroot\\Upload\\Screenshot 2024-07-25 123034.png",
+      "PackagePath": "staticwebassets\\Upload\\Screenshot 2024-07-25 123034.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApp2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApp2.props",
+      "PackagePath": "build\\WebApp2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp2.props",
+      "PackagePath": "buildMultiTargeting\\WebApp2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApp2.props",
+      "PackagePath": "buildTransitive\\WebApp2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

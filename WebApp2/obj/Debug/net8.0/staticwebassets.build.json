@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "s0EVuY+HxrmyESnMMU0qQNCR/CI6aAgfjlj+Rj43cRA=",
+  "Source": "WebApp2",
+  "BasePath": "_content/WebApp2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApp2\\wwwroot",
+      "Source": "WebApp2",
+      "ContentRoot": "C:\\Users\\Sudhanshu Kr Singh\\source\\repos\\WebApp2\\WebApp2\\wwwroot\\",
+      "BasePath": "_content/WebApp2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sudhanshu Kr Singh\\source\\repos\\WebApp2\\WebApp2\\wwwroot\\Upload\\Screenshot 2024-07-25 121342.png",
+      "SourceId": "WebApp2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sudhanshu Kr Singh\\source\\repos\\WebApp2\\WebApp2\\wwwroot\\",
+      "BasePath": "_content/WebApp2",
+      "RelativePath": "Upload/Screenshot 2024-07-25 121342.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Screenshot 2024-07-25 121342.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sudhanshu Kr Singh\\source\\repos\\WebApp2\\WebApp2\\wwwroot\\Upload\\Screenshot 2024-07-25 123034.png",
+      "SourceId": "WebApp2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sudhanshu Kr Singh\\source\\repos\\WebApp2\\WebApp2\\wwwroot\\",
+      "BasePath": "_content/WebApp2",
+      "RelativePath": "Upload/Screenshot 2024-07-25 123034.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Screenshot 2024-07-25 123034.png"
+    }
+  ]
+}
